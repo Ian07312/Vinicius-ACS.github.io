@@ -294,7 +294,7 @@ Foi retirado imagens do site original (https://oreidapizzabsb.ola.click/)
 icones retirados devicon.dev
 No projeto em questão foi feito o uso das seguintes AIs
 - Chatgpt
-- claude
+- claude AI
 
 ## Participantes
 - Vinícius Alves da Costa Silva 22508475
